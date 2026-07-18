@@ -1,1 +1,1 @@
-# Course_Projects
+# Course Projects
