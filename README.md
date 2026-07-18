@@ -1,1 +1,1 @@
-# Course_Projects of College.
+# Course_Projects
