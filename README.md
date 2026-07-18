@@ -1,1 +1,1 @@
-# Course Projects
+# All Course Projects
